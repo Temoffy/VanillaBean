@@ -5,12 +5,12 @@ body:
 - type: markdown
   attributes:
     value: |
-      Before reporting an issue, [please search](https://github.com/Fabulously-Optimized/fabulously-optimized/issues) to make sure it has not already been reported. 
+      Before reporting an issue, please search to make sure it has not already been reported. 
 
 - type: textarea
   attributes:
     label: Describe the bug
-    description: Describe your issue. For bad FPS and crashes you'll get a faster answer [from our Discord.](https://download.fo/discord)
+    description: Describe your issue.
   validations:
     required: true
 

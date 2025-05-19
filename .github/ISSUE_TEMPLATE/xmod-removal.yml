@@ -6,8 +6,8 @@ body:
   attributes:
     value: |
       ## "Remove mod name" ⤴️
-      Before you request a mod removal, [please search](https://github.com/Fabulously-Optimized/fabulously-optimized/issues) if it has already been requested.
-      [Consider the principles as well.](https://wiki.download.fo/principles)
+      Before you request a mod removal, please search if it has already been requested.
+      Consider the intended use of Vanilla Bean as well.
 
 - type: input
   attributes:

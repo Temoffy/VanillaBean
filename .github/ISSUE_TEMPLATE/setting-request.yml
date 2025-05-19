@@ -5,8 +5,8 @@ body:
 - type: markdown
   attributes:
     value: |
-      Before you request a config change, [please search](https://github.com/Madis0/fabulously-optimized/issues) if it has already been requested and see [if it has already been changed](https://wiki.download.fo/changed-options#options). 
-      If it has been changed and you don't see it, [make sure you are on the latest version](https://download.fo/update) and [reset your settings](https://wiki.download.fo/update-instructions#resetting-options).
+      Before you request a config change, please search if it has already been requested and see if it has already been changed. 
+      If it has been changed and you don't see it, make sure you are on the latest version and reset your settings.
 
 - type: textarea
   attributes:

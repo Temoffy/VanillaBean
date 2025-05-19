@@ -1,4 +1,4 @@
-# Fabulously Optimized repository
+# Vanilla Bean repository
 
 Welcome to my repository.
 Here you'll find the resources for:
@@ -8,9 +8,7 @@ Here you'll find the resources for:
 * MultiMC modpack with packwiz [(read more)](https://github.com/comp500/packwiz#packwiz-installer-for-pack-installation)
 * Packwiz files [(read more)](https://github.com/comp500/packwiz#packwiz)
 * Modrinth files [(read more)](https://github.com/Madis0/fabulously-optimized/issues/63)
-* Changelog, license, readme, [cape](https://github.com/Madis0/fabulously-optimized/wiki/Free-cape)
 * GitHub meta files in `.github` [(read more)](https://stackoverflow.com/a/61301254)
-* GitHub page in `docs` [(read more)](https://pages.github.com/) - currently just a redirection to CF page
 
 Other things to note:
 
@@ -20,7 +18,7 @@ Other things to note:
 
 ### Build process
 
-Contact us in Discord if you have ideas on how to streamline this process while still testing the pack in the launchers.
+Contact Fabulously Optimized modpack team in Discord if you have ideas on how to streamline this process while still testing the pack in the launchers.
 
 1. Download the latest modpack version to CurseForge Launcher
 2. Do changes, test
