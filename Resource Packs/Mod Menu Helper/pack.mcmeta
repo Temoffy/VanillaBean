@@ -1,9 +1,0 @@
-{
-    "pack": {
-        "pack_format": 55,
-        "description": {
-            "translate": "fo.resourcePack.modmenuhelper",
-            "fallback": "§7Lists mods' main features and options in Mod Menu§r"
-        }
-    }
-}

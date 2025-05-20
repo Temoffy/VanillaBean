@@ -67,7 +67,7 @@ jobs:
          uses: Kir-Antipov/mc-publish@v3.3
          with:
            name: ${{ github.ref_name }} for ${{ vars.MC_VERSION }}
-           modrinth-id: 9jIRcx30
+           modrinth-id: 8YfYXK5H
            modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
            modrinth-unfeature-mode: subset
            files: |
