@@ -4,7 +4,7 @@ on:
     types: [published]
 jobs:
   publish-to-curseforge:
-    if: github.repository_owner == 'Temoffy'
+    if: github.repository_owner == 'Temoffy(textheretodisable)'
     runs-on: ubuntu-24.04
     environment: github-actions
     steps:
@@ -29,7 +29,7 @@ jobs:
            game-versions: ${{ vars.MC_VERSION }}
            
   publish-to-modrinth:
-    if: github.repository_owner == 'Temoffy'
+    if: github.repository_owner == 'Temoffy(textheretodisable)'
     runs-on: ubuntu-24.04
     environment: github-actions
     permissions:

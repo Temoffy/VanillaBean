@@ -32,5 +32,5 @@ Contact Fabulously Optimized modpack team in Discord if you have ideas on how to
 9. Run `CurseForge to Packwiz-Modrinth.py`
    * If needed, change the Minecraft version or variables in the script
 10. Drag the exported CurseForge ZIP to the console window and hit enter - Packwiz changes will be made and Modrinth ZIP will be exported
-11. Publish manually to GitHub, CurseForge, Modrinth
+11. Publish manually to GitHub, CurseForge, Modrinth THIS IS OUTDATED!! USE GITHUB WORKFLOWS AND RELEASES TO BUILD AND DISTRIBUTE!!
 12. Announce on modpack's Discord, Fabric's Discord
